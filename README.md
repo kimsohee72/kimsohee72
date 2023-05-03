@@ -4,4 +4,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsohee72&layout=compact&hide=shaderlab)](https://github.com/anuraghazra/github-readme-stats)
 
- <a href="https://masimelo72.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/#20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+ <a href="https://masimelo72.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/#20C997?style=flat-square&logo=velog&logoColor=white"/></a>
